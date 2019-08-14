@@ -1,3 +1,6 @@
+
+this a message from server.
+
 海鸟工作室
 
 只是一条来自服务器端的提示信息。
